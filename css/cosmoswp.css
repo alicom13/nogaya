@@ -1,0 +1,12 @@
+/*
+ * Custom cosmoswp theme style
+ */
+@media (min-width: 0) {
+  /*Gaya HP*/
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /*Gaya TB*/
+}
+@media (min-width :992px) {
+  /*Gaya PC*/
+}
